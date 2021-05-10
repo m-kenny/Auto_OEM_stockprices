@@ -1,0 +1,2 @@
+# Auto_OEM_stockprices
+The group of stocks that I chose to analyse and compare are BMW, Volkswagen and Daimler, which are all traded on the Frankfurt stock exchange and are in the same industry therefore the easiest to compare and to analyse how the stock market has changed over the past 20 years. Within Automotive they are considered 3 of the largest OEM (Original Equipment Manufacturers) so this may be referenced in the below test.
